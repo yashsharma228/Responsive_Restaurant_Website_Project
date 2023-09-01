@@ -1,1 +1,2 @@
-# Restaurant_Website_Project
+With HTML and CSS skills.
+Fully Responsive Website.
