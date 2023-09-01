@@ -1,2 +1,2 @@
-With HTML and CSS skills.
-Fully Responsive Website.
+1. With HTML and CSS skills.			
+2. Fully Responsive Website.
