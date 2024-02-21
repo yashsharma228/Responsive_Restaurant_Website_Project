@@ -1,2 +1,6 @@
-1. With HTML and CSS skills.			
-2. Fully Responsive Website.
+I crafted a website that offers an optimal viewing experience for visitors across desktops, tablets, and mobile devices. 
+
+Technologies Used : - 
+
+1 . HTML5 : Semantic markup for structuring the content of the website.
+2 . CSS3 : Styling and layout techniques to create visually appealing designs.
