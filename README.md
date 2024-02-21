@@ -2,5 +2,6 @@ I crafted a website that offers an optimal viewing experience for visitors acros
 
 Technologies Used : - 
 
-1 . HTML5 : Semantic markup for structuring the content of the website.
-2 . CSS3 : Styling and layout techniques to create visually appealing designs.
+HTML5 : Semantic markup for structuring the content of the website.
+
+CSS3 : Styling and layout techniques to create visually appealing designs.
