@@ -6,4 +6,4 @@ HTML5 : Semantic markup for structuring the content of the website.
 
 CSS3 : Styling and layout techniques to create visually appealing designs.
 
-https://yashsharma228.github.io/Responsive_Restaurant_Website_Project/
+Live Demo : https://yashsharma228.github.io/Responsive_Restaurant_Website_Project/
