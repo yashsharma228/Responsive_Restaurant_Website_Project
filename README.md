@@ -1,4 +1,4 @@
-I crafted a website that offers an optimal viewing experience for visitors across desktops, tablets, and mobile devices. 
+I crafted a restaurant website that offers an optimal viewing experience for visitors across desktops, tablets, and mobile devices. 
 
 Technologies Used : - 
 
